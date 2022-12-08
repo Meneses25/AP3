@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectAP3</string>
+    <string name="login">Login</string>
+    <string name="digite_o_usuario">Digite o usuario</string>
+    <string name="digite_a_senha">Digite a senha</string>
+    <string name="Login">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="digite_o_usu_rio">Digite o usuário</string>
+    <string name="Digite_a_senha">Digite a senha</string>
+    <string name="confirme_a_senha">Confirme a senha</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
